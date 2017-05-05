@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first ruby app. So lets see what we can do with it.
 
 Things you may want to cover:
 
-* Ruby version
+* ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]
 
 * System dependencies
 
