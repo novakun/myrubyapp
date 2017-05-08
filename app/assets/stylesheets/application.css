@@ -52,6 +52,7 @@ p {
 .navbar-fixed-bottom {
 background-color: rgb(16, 16, 16);
 }
-.bike {
-	max-width: 600px;
+
+.img-responsive {
+	width: 100%;
 }
