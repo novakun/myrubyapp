@@ -58,4 +58,8 @@ background-color: rgb(16, 16, 16);
 }
 .slide{
 	text-align: center;
+	margin: auto;
+}
+.carousel {
+	text-align: center;
 }
