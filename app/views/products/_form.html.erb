@@ -27,8 +27,13 @@
   </div>
 
   <div class="field">
+    <%= form.label :color %>
+    <%= form.text_field :color, id: :product_color %>
+  </div>
+
+  <div class="field">
     <%= form.label :cost %>
-    <%= form.text_field :cost %>
+    <%= form.text_field :cost, id: :product_cost %>
 
   <div class="actions">
     <%= form.submit %>
